@@ -96,3 +96,6 @@ Potential future enhancements include:
 ---
 
 ## Repository Structure
+├── crash_detection_system.ino
+├── ENHANCEMENT_DOCUMENTATION.md
+└── README.md
